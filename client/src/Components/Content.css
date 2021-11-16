@@ -1,0 +1,57 @@
+.Content {
+  width: auto;
+  background: white;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+
+}
+.Cards > li {
+  width: 300px;
+  height: 400px;
+  background: gray;
+  display: inline-block;
+  justify-content: space-between;
+  margin: 20px;
+
+}
+
+#item1 {
+  background-image: url("https://i.pinimg.com/originals/f6/a5/de/f6a5de2e657b92059202a6593d5bb89b.jpg");
+  background-position: center;
+  background-size: 100%;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  line-height: 400px;
+  font-size: 36px;
+  box-sizing: border-box;
+
+}
+
+#item2 {
+  background-image: url("https://i.pinimg.com/736x/98/b2/00/98b2008da9493ebf4c6b3afda97a74b6.jpg");
+  background-position: center;
+  background-size: 150%;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+  line-height: 400px;
+  font-size: 36px;
+}
+#item3 {
+  background-image: url("https://www.thespecialtycoffeecompany.com/wp-content/uploads/2020/05/image0-1.jpeg");
+  background-position: center;
+  background-size: 110%;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  line-height: 400px;
+  font-size: 36px;
+}
