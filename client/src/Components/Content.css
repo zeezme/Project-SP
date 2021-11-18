@@ -4,7 +4,6 @@
   height: 500px;
   display: flex;
   justify-content: center;
-
 }
 .Cards > li {
   width: 300px;
@@ -13,7 +12,6 @@
   display: inline-block;
   justify-content: space-between;
   margin: 20px;
-
 }
 
 #item1 {
@@ -28,13 +26,12 @@
   line-height: 400px;
   font-size: 36px;
   box-sizing: border-box;
-
 }
 
 #item2 {
-  background-image: url("https://i.pinimg.com/736x/98/b2/00/98b2008da9493ebf4c6b3afda97a74b6.jpg");
+  background-image: url("https://ae01.alicdn.com/kf/HTB1jxzpe_Zmx1VjSZFGq6yx2XXaW/Round-Plate-Black-Rock-Plate-Creative-Western-Tableware-Irregular-Dish-Household-Vegetable-Plate-Dessert-Plate.jpg");
   background-position: center;
-  background-size: 150%;
+  background-size: 140%;
   align-items: center;
   justify-content: center;
   color: rgb(255, 255, 255);
